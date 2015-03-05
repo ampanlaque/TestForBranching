@@ -9,5 +9,7 @@ namespace DragonBall
     public class Class1
     {
         //changes from branch1
+
+        //changes from branch2
     }
 }
